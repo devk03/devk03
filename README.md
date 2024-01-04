@@ -27,4 +27,4 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
 
 ## 🌐 Connect with me:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dev-kunjadia/)
+- LinkedIn: [linkedIn.com/dev-kunjadia](https://www.linkedin.com/in/dev-kunjadia/)
