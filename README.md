@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
+
 ### Databases:
 <p align="left">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
@@ -38,8 +39,8 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-## 📊 GitHub Stats:
 
+## 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devk03&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me:
