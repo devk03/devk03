@@ -39,7 +39,3 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-
-## 🌐 Connect with me:
-
-- LinkedIn: [linkedIn.com/dev-kunjadia](https://www.linkedin.com/in/dev-kunjadia/)
